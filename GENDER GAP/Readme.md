@@ -8,15 +8,15 @@ The gender pay gap remains a critical issue worldwide, with women often earning 
 
 ## Key Points:
 
-## Descriptive Statistics: We perform basic statistical analyses to understand the distribution of hourly earnings by gender, year, and country. #DataAnalysis #DescriptiveStats
+Descriptive Statistics: We perform basic statistical analyses to understand the distribution of hourly earnings by gender, year, and country. #DataAnalysis #DescriptiveStats
 
-## Time Series Analysis: We conduct a time series analysis to identify trends in hourly earnings for both genders over the years. #TimeSeriesAnalysis #Trends
+Time Series Analysis: We conduct a time series analysis to identify trends in hourly earnings for both genders over the years. #TimeSeriesAnalysis #Trends
 
-## Country-Wise Analysis: We examine variations in the gender pay gap across different countries, identifying regions with significant disparities. #CountryAnalysis #GenderDisparities
+ Country-Wise Analysis: We examine variations in the gender pay gap across different countries, identifying regions with significant disparities. #CountryAnalysis #GenderDisparities
 
-## Statistical Testing: We employ statistical tests such as the Mann-Whitney U test to determine the significance of gender pay gaps in specific contexts. #StatisticalTesting #Significance
+ Statistical Testing: We employ statistical tests such as the Mann-Whitney U test to determine the significance of gender pay gaps in specific contexts. #StatisticalTesting #Significance
 
-## Long-Term Insights: By integrating these analyses, we aim to provide a holistic understanding of the gender pay gap, its drivers, and its evolution over time. This knowledge can inform policy recommendations and workplace initiatives aimed at reducing gender disparities in earnings. #GenderEquality #PolicyRecommendations
+Long-Term Insights: By integrating these analyses, we aim to provide a holistic understanding of the gender pay gap, its drivers, and its evolution over time. This knowledge can inform policy recommendations and workplace initiatives aimed at reducing gender disparities in earnings. #GenderEquality #PolicyRecommendations
 
 
 HAPPY LEANRING 😀
